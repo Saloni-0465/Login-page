@@ -5,7 +5,8 @@
 body{
     display: grid;
     height: 100%;
-    background-color: #A4133C;
+    background-image: url(https://img.freepik.com/free-vector/gradient-landscape-design-background_23-2149120067.jpg);
+    background-size: cover;
     justify-content: center;
     text-align: center;
     margin-top: 215px;
@@ -17,7 +18,7 @@ body{
 }
 
 .forgot-link a{
-    color: #C9184A;
+    color: #ff5c8a;
     text-decoration: none;
 }
 .heading{
@@ -25,7 +26,7 @@ body{
     line-height: 80px;
     font-weight: 600;
     font-size: 25px;
-    background-color: #C9184A;
+    background-color:  #ff5c8a;
     color: white;
 
 }
@@ -40,14 +41,14 @@ body{
 
 }
 .email-box i{
-    background-color: #C9184A;
+    background-color: #ff5c8a;
     width: 38px;
     height: 100%;
 
 }
 
 .pass-box i{
-    background-color: #C9184A;
+    background-color: #ff5c8a;
     width: 38px;
     height: 100%;
 
@@ -55,14 +56,14 @@ body{
 .login-button button{
     width: 190px;
     height: 27px;
-    background-color: #C9184A;
+    background-color:#ff5c8a;
     color: white;
-    border: 1px solid #C9184A;
+    border: 1px solid #ff5c8a;
     font-weight: 540;
     font-size: 15px;
 
 }
 
 .span{
-    color: #C9184A;
+    color:  #ff5c8a;
 }
